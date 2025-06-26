@@ -1,0 +1,2 @@
+I removed <conio.h> Console Input/Output header  together getch();  since it does not work on the latest G++ Compiler
+then I fixed some miss alignment in the code statements and it worked 
