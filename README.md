@@ -34,7 +34,7 @@ Course code   : BIT 3106  <br>
       <li>02. Product of matrices</li>
       <li>03. Functions</li>
       <li>04. Bank account class </li>
-      <li>05.</li>
+      <li>05. Student information </li>
       <li>06.</li>
       <li>07.</li>
       <li>08.</li>
