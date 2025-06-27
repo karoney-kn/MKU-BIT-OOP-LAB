@@ -36,7 +36,7 @@ Course code   : BIT 3106  <br>
       <li>04. Bank account class </li>
       <li>05. Student information </li>
       <li>06. Constructors </li>
-      <li>07.</li>
+      <li>07. Factorial </li>
       <li>08.</li>
       <li>09.</li>
       <li>10.</li>
