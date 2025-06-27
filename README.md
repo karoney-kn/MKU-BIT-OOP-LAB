@@ -30,10 +30,10 @@ Course code   : BIT 3106  <br>
   <li><b> Lab Programs:</b></li>
   <li>
     <ul type="square">
-      <li>01. Program of Palindrome </li>
-      <li>02. Program on product of matrices</li>
-      <li>03. Program on functions</li>
-      <li>04. </li>
+      <li>01. Palindrome </li>
+      <li>02. Product of matrices</li>
+      <li>03. Functions</li>
+      <li>04. Bank account class </li>
       <li>05.</li>
       <li>06.</li>
       <li>07.</li>
