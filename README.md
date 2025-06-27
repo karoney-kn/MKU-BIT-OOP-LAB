@@ -38,8 +38,8 @@ Course code   : BIT 3106  <br>
       <li>06. Constructors </li>
       <li>07. Factorial </li>
       <li>08. Friend function </li>
-      <li>09.</li>
-      <li>10.</li>
+      <li>09. Function template</li>
+      <li>10. </li>
       <li>11.</li>
       <li>12.</li>
       <li>13.</li>
