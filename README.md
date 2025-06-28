@@ -23,8 +23,14 @@
 ## Lab Manual <br>
 Program    :  B.Sc [IT] I May-August 2025<br>
 Course    :  OOP’s Using C++<br>
-Course code   : BIT 3106  <br>
+Course code   : BIT 3106  <br>'
 
+Text Book:  
+Mastering C++ by R Venugopal, Rajkumar& T Ravishankar, Tata McGrawHill  
+References:  
+1. Tony Gaddis, Starting out with C++: from control structures through objects (7e)  
+2. B. Stroupstrup, The C++ Programming Language, Addison Wesley, 2004.  
+3. Problem Solving with C++ by Walter Savitch, Addison Wesley  
  </li>
 
   <li><b> Lab Programs:</b></li>
