@@ -41,9 +41,10 @@ Course code   : BIT 3106  <br>
       <li>09. Function template</li>
       <li>10. Multiple inheritances </li>
       <li>11. Hierarchical inheritance</li>
-      <li>12.</li>
-      <li>13.</li>
-      <li>14.</li>
+      <li>12. Function overloading</li>
+      <li>13. Exceptional handling </li>
+      <li>14. Class Templates</li>
+      <li>15. Virtual Functions</li>
     </ul>
    </li>
 </ul>
