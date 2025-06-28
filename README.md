@@ -39,12 +39,11 @@ Course code   : BIT 3106  <br>
       <li>07. Factorial </li>
       <li>08. Friend function </li>
       <li>09. Function template</li>
-      <li>10. </li>
+      <li>10. Multiple inheritances </li>
       <li>11.</li>
       <li>12.</li>
       <li>13.</li>
       <li>14.</li>
-      <li>15.</li>
     </ul>
    </li>
 </ul>
