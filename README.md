@@ -36,21 +36,21 @@ References:
   <li><b> Lab Programs:</b></li>
   <li>
     <ul type="square">
-      <li><a href="https://github.com/karoney-kn/MKU-BIT-OOP-LAB/blob/028c3e7f5e95d22302c388785b9eae6e0f366359/labs/01.%20palindrome.cpp"> 01. Palindrome </a></li>
-      <li>02. Product of matrices</li>
-      <li>03. Functions</li>
-      <li>04. Bank account class </li>
-      <li>05. Student information </li>
-      <li>06. Constructors </li>
-      <li>07. Factorial </li>
-      <li>08. Friend function </li>
-      <li>09. Function template</li>
-      <li>10. Multiple inheritances </li>
-      <li>11. Hierarchical inheritance</li>
-      <li>12. Function overloading</li>
-      <li>13. Exceptional handling </li>
-      <li>14. Class Templates</li>
-      <li>15. Virtual Functions</li>
+      <li><a href="https://github.com/karoney-kn/MKU-BIT-OOP-LAB/blob/main/labs/01.%20palindrome.cpp"> 01. Palindrome </a></li>
+      <li><a href="https://github.com/karoney-kn/MKU-BIT-OOP-LAB/blob/main/labs/02.%20productmatrices.cpp">02. Product of matrices</a></li>
+      <li><a href="https://github.com/karoney-kn/MKU-BIT-OOP-LAB/blob/main/labs/03.%20programonfunctions.cpp">03. Functions</a></li>
+      <li><a href="https://github.com/karoney-kn/MKU-BIT-OOP-LAB/blob/main/labs/04.%20bankaccountclass.cpp">04. Bank account class</a> </li>
+      <li><a href="https://github.com/karoney-kn/MKU-BIT-OOP-LAB/blob/main/labs/05.%20studentinfomation.cpp"> 05. Student information</a> </li>
+      <li><a href="https://github.com/karoney-kn/MKU-BIT-OOP-LAB/blob/main/labs/06.%20constructors.cpp"> 06. Constructors</a> </li>
+      <li><a href="https://github.com/karoney-kn/MKU-BIT-OOP-LAB/blob/main/labs/07.%20factorial.cpp"> 07. Factorial </a></li>
+      <li><a href="https://github.com/karoney-kn/MKU-BIT-OOP-LAB/blob/main/labs/08.%20friendfunction.cpp"> 08. Friend function </a> </li>
+      <li><a href="https://github.com/karoney-kn/MKU-BIT-OOP-LAB/blob/main/labs/09.%20functiontemplate.cpp"> 09. Function template</a></li>
+      <li><a href="https://github.com/karoney-kn/MKU-BIT-OOP-LAB/blob/main/labs/10.%20multipleinheritances.cpp"> 10. Multiple inheritances </a></li>
+      <li><a href="https://github.com/karoney-kn/MKU-BIT-OOP-LAB/blob/main/labs/11.%20hierarchicalinheritance.cpp">11. Hierarchical inheritance</a></li>
+      <li><a href="https://github.com/karoney-kn/MKU-BIT-OOP-LAB/blob/main/labs/12.%20functionoverloading.cpp">12. Function overloading</a></li>
+      <li><a href="https://github.com/karoney-kn/MKU-BIT-OOP-LAB/blob/main/labs/13.%20exceptionalhandling.cpp">13. Exceptional handling</a> </li>
+      <li><a href="https://github.com/karoney-kn/MKU-BIT-OOP-LAB/blob/main/labs/14.%20classtemplate.cpp"> 14. Class Templates</a></li>
+      <li><a href="https://github.com/karoney-kn/MKU-BIT-OOP-LAB/blob/main/labs/15.%20virtualfunctions.cpp">15. Virtual Functions</a></li>
     </ul>
    </li>
 </ul>
