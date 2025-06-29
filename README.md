@@ -24,13 +24,6 @@
 Program    :  B.Sc [IT] I May-August 2025<br>
 Course    :  OOP’s Using C++<br>
 Course code   : BIT 3106  <br>
-
-Text Book:  
-Mastering C++ by R Venugopal, Rajkumar& T Ravishankar, Tata McGrawHill  <br>
-References:  
-1. Tony Gaddis, Starting out with C++: from control structures through objects (7e)  
-2. B. Stroupstrup, The C++ Programming Language, Addison Wesley, 2004.  
-3. Problem Solving with C++ by Walter Savitch, Addison Wesley  <br>
  </li>
 
   <li><b> Lab Practical Programs:</b></li>
@@ -53,5 +46,15 @@ References:
       <li><a href="https://github.com/karoney-kn/MKU-BIT-OOP-LAB/blob/main/labs/15.%20virtualfunctions.cpp">15. Virtual Functions</a></li>
     </ul>
    </li>
+   <li>
+ 
+Text Book:  
+Mastering C++ by R Venugopal, Rajkumar& T Ravishankar, Tata McGrawHill  <br>
+References:  
+1. Tony Gaddis, Starting out with C++: from control structures through objects (7e)  
+2. B. Stroupstrup, The C++ Programming Language, Addison Wesley, 2004.  
+3. Problem Solving with C++ by Walter Savitch, Addison Wesley  <br>
+ </li>
+
 </ul>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=56b359&height=120&section=footer"/>
