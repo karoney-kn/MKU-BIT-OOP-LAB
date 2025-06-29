@@ -51,8 +51,8 @@ Course code   : BIT 3106  <br>
 <b> Text Resources:</b><br>  
 Mastering C++ by R Venugopal, Rajkumar& T Ravishankar, Tata McGrawHill  <br>
 <b>References:  </b><br>
-1. Tony Gaddis, Starting out with C++: from control structures through objects (7e)  
-2. B. Stroupstrup, The C++ Programming Language, Addison Wesley, 2004.  
+1. Tony Gaddis, Starting out with C++: from control structures through objects (7e)  <br>
+2. B. Stroupstrup, The C++ Programming Language, Addison Wesley, 2004.  <br>
 3. Problem Solving with C++ by Walter Savitch, Addison Wesley  <br>
  </li>
 
