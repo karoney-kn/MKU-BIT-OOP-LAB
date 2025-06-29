@@ -47,10 +47,10 @@ Course code   : BIT 3106  <br>
     </ul>
    </li>
    <li>
- 
-Text Book:  
-Mastering C++ by R Venugopal, Rajkumar& T Ravishankar, Tata McGrawHill  <br>
-References:  
+ <br><br>
+<b> Text Resources:</b><br><br>  
+Mastering C++ by R Venugopal, Rajkumar& T Ravishankar, Tata McGrawHill  <br><br>
+<b>References:  </b>
 1. Tony Gaddis, Starting out with C++: from control structures through objects (7e)  
 2. B. Stroupstrup, The C++ Programming Language, Addison Wesley, 2004.  
 3. Problem Solving with C++ by Walter Savitch, Addison Wesley  <br>
