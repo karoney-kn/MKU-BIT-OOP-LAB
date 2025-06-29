@@ -33,7 +33,7 @@ References:
 3. Problem Solving with C++ by Walter Savitch, Addison Wesley  <br>
  </li>
 
-  <li><b> Lab Programs:</b></li>
+  <li><b> Lab Practical Programs:</b></li>
   <li>
     <ul type="square">
       <li><a href="https://github.com/karoney-kn/MKU-BIT-OOP-LAB/blob/main/labs/01.%20palindrome.cpp"> 01. Palindrome </a></li>
